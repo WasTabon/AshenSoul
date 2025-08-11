@@ -9,11 +9,13 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: M_PineTrunk_01
   m_Shader: {fileID: 4800000, guid: 418a5281d3f8eab4f99d89dfa09c84eb, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
+  - _ALPHATEST_ON
   - _USEDFORTRUNK_ON
   m_InvalidKeywords:
   - TVE_FEATURE_CLIP
-  - _ALPHATEST_ON
   - _TRUNKMATERIAL_ON
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 1
@@ -25,6 +27,7 @@ Material:
   - TransparentBackfaceDebugDisplay
   - TransparentDepthPrepass
   - TransparentDepthPostpass
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
