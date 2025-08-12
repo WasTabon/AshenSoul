@@ -297,11 +297,6 @@ MonoBehaviour:
     recalculate: 0
     min: 60.032166
     max: 161.06496
-  - guid: Worldmap
-    isWorldmap: 1
-    recalculate: 0
-    min: 0
-    max: 106.7165
   - guid: 067c88ebc47f009409503200e6c03ae5
     isWorldmap: 0
     recalculate: 0
@@ -315,12 +310,12 @@ MonoBehaviour:
   - guid: 41901d757fc1e374a875a0877e27d28b
     isWorldmap: 0
     recalculate: 0
-    min: 25.250385
+    min: 25.219135
     max: 196.503
   - guid: bdfd819d99ea5b544b71f1f5cfa81835
     isWorldmap: 0
     recalculate: 0
-    min: 40.563118
+    min: 40.65687
     max: 254.06638
   - guid: 30fac2d2f5482e0498870b50be0974d2
     isWorldmap: 0
@@ -371,7 +366,7 @@ MonoBehaviour:
     isWorldmap: 0
     recalculate: 0
     min: 26.2504
-    max: 119.158066
+    max: 118.09555
   - guid: 69ffbb6110ffbd347afb29473f9f6fba
     isWorldmap: 0
     recalculate: 0
@@ -382,5 +377,34 @@ MonoBehaviour:
     recalculate: 0
     min: 53.68832
     max: 204.84688
-  m_bakedMaskCacheEntries: []
+  - guid: Worldmap
+    isWorldmap: 1
+    recalculate: 0
+    min: 0
+    max: 0
+  m_bakedMaskCacheEntries:
+  - fileName: Terrain_3_3-20250813 - 005002_LayerGameObject_3584_12
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_3_3-20250813
+      - 005002/Terrain_3_3-20250813 - 005002_LayerGameObject_3584_12
+    fullPath: C:/UnityGit/AshenSoul/Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_3_3-20250813
+      - 005002/Terrain_3_3-20250813 - 005002_LayerGameObject_3584_12
+    texture: {fileID: 0}
+  - fileName: Terrain_3_3-20250813 - 005002_LayerTree_3584_5
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_3_3-20250813
+      - 005002/Terrain_3_3-20250813 - 005002_LayerTree_3584_5
+    fullPath: C:/UnityGit/AshenSoul/Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_3_3-20250813
+      - 005002/Terrain_3_3-20250813 - 005002_LayerTree_3584_5
+    texture: {fileID: 0}
+  - fileName: Terrain_3_3-20250813 - 005002_LayerGameObject_3584_5
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_3_3-20250813
+      - 005002/Terrain_3_3-20250813 - 005002_LayerGameObject_3584_5
+    fullPath: C:/UnityGit/AshenSoul/Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_3_3-20250813
+      - 005002/Terrain_3_3-20250813 - 005002_LayerGameObject_3584_5
+    texture: {fileID: 0}
+  - fileName: Terrain_3_3-20250813 - 005002_LayerGameObject_3072_0,75
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_3_3-20250813
+      - 005002/Terrain_3_3-20250813 - 005002_LayerGameObject_3072_0,75
+    fullPath: C:/UnityGit/AshenSoul/Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_3_3-20250813
+      - 005002/Terrain_3_3-20250813 - 005002_LayerGameObject_3072_0,75
+    texture: {fileID: 0}
   m_worldBiomeMaskSettings: {fileID: 0}

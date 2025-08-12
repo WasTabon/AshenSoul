@@ -808,7 +808,10 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Standalone: UPPipeline;GAIA_2023;GAIA_MESH_PRESENT;GAIA_INPUT_SYSTEM;GENA_PRO;GeNa_URP
+    Android: CROSS_PLATFORM_INPUT;MOBILE_INPUT
+    Standalone: UPPipeline;GAIA_2023;GAIA_MESH_PRESENT;GAIA_INPUT_SYSTEM;GENA_PRO;GeNa_URP;CROSS_PLATFORM_INPUT
+    Windows Store Apps: MOBILE_INPUT
+    iPhone: CROSS_PLATFORM_INPUT;MOBILE_INPUT
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
