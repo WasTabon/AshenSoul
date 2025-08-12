@@ -808,7 +808,7 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Standalone: UPPipeline;GAIA_2023;GAIA_MESH_PRESENT
+    Standalone: UPPipeline;GAIA_2023;GAIA_MESH_PRESENT;GAIA_INPUT_SYSTEM
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
@@ -915,7 +915,7 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: d4f399cb-471d-40ee-9be6-c0ada3a2643f
   framebufferDepthMemorylessMode: 0
